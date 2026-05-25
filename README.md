@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=syedhasht&style=flat-square&color=grey"/>
 </p>
 
 ---
