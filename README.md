@@ -139,7 +139,3 @@ Artificial Intelligence · Natural Language Processing · Data Structures · Clo
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhasht&layout=compact&theme=default&hide_border=true" height="145"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedhasht&hide_border=true&theme=default" height="145"/>
-</p>
