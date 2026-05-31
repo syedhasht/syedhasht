@@ -133,9 +133,3 @@ Artificial Intelligence · Natural Language Processing · Data Structures · Clo
 `EC2` `S3` `IAM` `VPC` `Cloud Architecture`
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedhasht&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" height="145"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhasht&layout=compact&theme=default&hide_border=true" height="145"/>
-</p>
