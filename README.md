@@ -1,7 +1,5 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:112A45,100:3FD9C7&height=220&section=header&text=Syed%20Hashim%20Tirmizi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%C2%B7%20Generative%20AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20LLMs&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/> <a href="https://syedhashim.vercel.app"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=3FD9C7&center=true&vCenter=true&width=650&lines=Building+production-grade+ML+systems...;Generative+AI+%7C+Computer+Vision+%7C+LLMs;Model+R%26D+%E2%86%92+Deployment+%E2%86%92+Live+Monitoring;Currently+running+across+3+countries+%F0%9F%8C%8D" alt="Typing SVG" /> </a> <br/>
 
-Show Image Show Image Show Image Show Image
-
 <img src="https://komarev.com/ghpvc/?username=syedhasht&label=Profile%20Views&color=3FD9C7&style=for-the-badge" alt="profile views"/> &nbsp; <img src="https://img.shields.io/github/followers/syedhasht?label=Followers&style=for-the-badge&color=112A45" alt="followers"/> </div> <br/>
 🧬 About Me
 
@@ -149,10 +147,6 @@ Show Image
 🎓 B.Sc. Computer Science	University of Central Punjab, Lahore · 2022 – 2026
 ☁️ AWS Academy Cloud Foundations	Amazon Web Services · Jun 2025
 </div> <br/>
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=syedhasht&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FD9C7&icon_color=3FD9C7&text_color=E7EEF4" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhasht&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FD9C7&text_color=E7EEF4" width="38%"/> <img src="https://streak-stats.demolab.com?user=syedhasht&theme=tokyonight&hide_border=true&background=0D1117&ring=3FD9C7&fire=3FD9C7&currStreakLabel=3FD9C7" width="70%"/> </div> <br/> <div align="center">
 📫 Let's Build Something
-
-Show Image Show Image Show Image
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FD9C7,100:112A45&height=120&section=footer" width="100%"/> </div>
