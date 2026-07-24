@@ -1,130 +1,158 @@
-# Syed Hashim Tirmizi
-### Machine Learning Engineer · Generative AI · Computer Vision · LLMs
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:112A45,100:3FD9C7&height=220&section=header&text=Syed%20Hashim%20Tirmizi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%C2%B7%20Generative%20AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20LLMs&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/> <a href="https://syedhashim.vercel.app"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=3FD9C7&center=true&vCenter=true&width=650&lines=Building+production-grade+ML+systems...;Generative+AI+%7C+Computer+Vision+%7C+LLMs;Model+R%26D+%E2%86%92+Deployment+%E2%86%92+Live+Monitoring;Currently+running+across+3+countries+%F0%9F%8C%8D" alt="Typing SVG" /> </a> <br/>
 
-I build production-grade ML systems — from model R&D and training to real-time API deployment and live monitoring. My work spans generative AI, computer vision, NLP, and predictive modelling, currently running across 3 countries.
+Show Image Show Image Show Image Show Image
 
-📍 Lahore, Pakistan · Open to ML/AI Engineer roles (on-site/hybrid/remote)  
-📧 syedhasht@gmail.com · [Portfolio](https://syedhashim.vercel.app) · [LinkedIn](https://linkedin.com/in/syedhashimtirmizi)
+<img src="https://komarev.com/ghpvc/?username=syedhasht&label=Profile%20Views&color=3FD9C7&style=for-the-badge" alt="profile views"/> &nbsp; <img src="https://img.shields.io/github/followers/syedhasht?label=Followers&style=for-the-badge&color=112A45" alt="followers"/> </div> <br/>
+🧬 About Me
 
----
+I build production-grade ML systems — from model R&D and training to real-time API deployment and live monitoring. My work spans generative AI, computer vision, NLP, and predictive modelling, currently running live across 3 countries.
 
-## 🚀 Production Deployments
+yaml
+role:       Machine Learning Engineer
+focus:      [Generative AI, Computer Vision, LLMs, Predictive Modelling]
+location:   Lahore, Pakistan
+status:     Open to ML / AI Engineer roles — on-site · hybrid · remote
+philosophy: "Ship systems, not notebooks."
+<br/>
+🚀 Production Deployments
+<div align="center">
+System	Scale	Status
+PPE Safety Monitoring — YOLOv8 + ByteTrack	50 RTSP streams · 40 FPS · 88% accuracy	🟢 Live — Saudi Arabia & Bahrain
+DDPM Diffusion Model (GSDiff) — Floor Plan Generation	Replaced Graph2Plan pipeline @ IMARAT Group	🟢 Deployed in 2 months
+Internal CRM & Business Operations Platform	Company-wide: sales, delivery, finance, HR + AI assistant	🟢 Live — Upmotion Tech
+GPT-4 LLM Automation Pipeline	Scraping → viability gating → PostgreSQL → live UI	🟢 Live
+HillSafe-AI — Landslide Early Warning	Random Forest + LSTM · 85% accuracy	🟢 Live
+</div> <br/>
+🧠 Technical Stack
+<div align="center">
 
-| System | Scale | Status |
-|---|---|---|
-| PPE Safety Monitoring — YOLOv8 + ByteTrack | 50 RTSP streams · 40 FPS · 88% accuracy | 🟢 Live — Saudi Arabia & Bahrain |
-| DDPM Diffusion Model (GSDiff) — Floor Plan Generation | Replaced Graph2Plan at IMARAT Group | 🟢 Deployed within 2 months |
-| GPT-4 LLM Pipeline — Upwork Automation | Scraping → viability gating → PostgreSQL → live UI | 🟢 Live |
-| HillSafe-AI — Landslide Early Warning | Random Forest + LSTM · 85% accuracy | 🟢 Live |
+AI / ML
 
----
+Show Image Show Image Show Image Show Image Show Image Show Image
 
-## 🧠 Technical Stack
+Computer Vision
 
-**AI / ML**  
-PyTorch · HuggingFace Transformers · YOLOv8 · DDPM Diffusion Models · LSTM · Random Forest · SVM · XGBoost · Scikit-learn · TensorFlow
+Show Image Show Image Show Image
 
-**Computer Vision**  
-Object Detection · Multi-Object Tracking (ByteTrack) · RTSP Stream Processing · GPU Inference Optimisation · Pose Estimation · Zone Intrusion Detection · OpenCV
+LLMs & Agents
 
-**LLMs & Agents**  
-GPT-4 Integration · Prompt Engineering · Strict Output Parsing · RAG · LLM Orchestration · Multi-Account Session Management
+Show Image Show Image Show Image
 
-**Backend & APIs**  
-FastAPI · Django REST · Flask · Node.js · Express · PostgreSQL · MySQL · MongoDB · Firebase · Prisma
+Backend & APIs
 
-**Automation**  
-Android AccessibilityService · SeleniumBase · Playwright · TLS Fingerprint Impersonation · State-Machine Design
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
-**Cloud & DevOps**  
-AWS (EC2 · S3 · IAM · VPC) · Git · GitHub Actions · Linux · adb
+Automation
 
-**Languages**  
-Python · Java · TypeScript · C++ · C · Dart
+Show Image Show Image Show Image
 
----
+Cloud & DevOps
 
-## 📦 Key Projects
+Show Image Show Image Show Image Show Image
 
-### 🦺 PPE & Safety Monitoring System
-Real-time construction site safety — 50 concurrent RTSP streams, 40 FPS, 88% detection accuracy  
-Deployed live in **Saudi Arabia and Bahrain**
+Languages
 
-- GPU-accelerated YOLOv8 + ByteTrack pipeline with scalable FastAPI backend
-- Real-time violation alerts, async error handling, monitoring dashboards
-- Extended with restricted zone intrusion detection and pose-based fall detection
-- Optimised for NVIDIA GTX 960 inference
+Show Image Show Image Show Image Show Image Show Image
 
-`YOLOv8` `ByteTrack` `FastAPI` `OpenCV` `RTSP` `CUDA` `Python`
+</div> <br/>
+📦 Key Projects
+<table> <tr> <td width="50%" valign="top">
+🦺 PPE & Safety Monitoring System
 
----
+Real-time construction-site safety — 50 concurrent RTSP streams, 40 FPS, 88% detection accuracy — live in Saudi Arabia and Bahrain.
 
-### 🏗️ DDPM Floor Plan Generation — IMARAT Group
-R&D and production deployment of GSDiff (DDPM-based diffusion model) replacing Graph2Plan pipeline
+GPU-accelerated YOLOv8 + ByteTrack pipeline, scalable FastAPI backend
+Real-time violation alerts, async error handling, monitoring dashboards
+Restricted-zone intrusion detection + pose-based fall detection
+Inference optimised for NVIDIA GTX 960
 
-- Conducted applied R&D on RPlan dataset; led full model transition
-- Deployed to production within 2 months of internship start
-- Trained and benchmarked ANN, CNN, RNN baselines; deployed inference via FastAPI
+YOLOv8 ByteTrack FastAPI OpenCV RTSP CUDA
 
-`PyTorch` `DDPM` `Diffusion Models` `FastAPI` `RPlan Dataset`
+</td> <td width="50%" valign="top">
+🏗️ DDPM Floor Plan Generation
 
----
+R&D and production deployment of GSDiff (DDPM diffusion model), replacing the Graph2Plan pipeline at IMARAT Group.
 
-### ⛰️ HillSafe-AI — Disaster Early Warning System
-Real-time landslide risk prediction platform for hilly regions of Pakistan
+Applied R&D on the RPlan dataset; led the full model transition
+Deployed to production within 2 months of internship start
+Benchmarked ANN / CNN / RNN baselines; served via FastAPI
 
-- Ensemble ML: Random Forest (spatial susceptibility) + LSTM (rainfall forecasting) — 85% accuracy
-- Automated ingestion of satellite imagery, DEM-derived slope features, live weather APIs
-- Django REST backend + Flutter mobile app with real-time hazard maps and push alerts
-- NLP chatbot for personalised safety guidance delivery
+PyTorch DDPM Diffusion Models FastAPI RPlan
 
-`PyTorch` `Random Forest` `LSTM` `Django REST` `Flutter` `Satellite APIs` `DEM`
+</td> </tr> <tr> <td width="50%" valign="top">
+⛰️ HillSafe-AI — Disaster Early Warning
 
----
+Real-time landslide risk prediction for hilly regions of Pakistan.
 
-### 🤖 GPT-4 LLM Automation Pipeline
-End-to-end autonomous pipeline: Upwork scraping → LLM viability gating → live listing platform
+Ensemble ML: Random Forest (spatial susceptibility) + LSTM (rainfall forecasting) — 85% accuracy
+Automated ingestion of satellite imagery, DEM slope features, live weather APIs
+Django REST + Flutter app with real-time hazard maps & push alerts
+NLP chatbot for personalised safety guidance
 
-- GPT-4 strict Yes/No viability gating with zero hallucinations via INVALID_FORMAT/TIMEOUT/EMPTY output parsing
-- Stateless Python scraper with TLS fingerprint impersonation and Cloudflare bypass
-- Express + Prisma backend with 15-min cron sync, advisory locking, deduplication
+PyTorch Random Forest LSTM Django REST Flutter
 
-`GPT-4` `Python` `PostgreSQL` `Node.js` `Prisma` `SSE` `LLM Orchestration`
+</td> <td width="50%" valign="top">
+🤖 GPT-4 LLM Automation Pipeline
 
----
+End-to-end autonomous pipeline: scraping → LLM viability gating → live listing platform.
 
-### 📰 Fake News Detection — NLP
-Dual-model NLP benchmark on BBC News dataset — 92% classification accuracy
+GPT-4 strict Yes/No gating with zero hallucinations via structured output parsing
+Stateless scraper with TLS fingerprint impersonation & Cloudflare bypass
+Express + Prisma backend, 15-min cron sync, advisory locking, deduplication
 
-- Fine-tuned HuggingFace Transformers for binary text classification
-- Benchmarked custom LSTM language model vs GPT-2 for text generation and perplexity evaluation
+GPT-4 Python PostgreSQL Node.js Prisma
 
-`PyTorch` `HuggingFace` `LSTM` `GPT-2` `NLP`
+</td> </tr> <tr> <td width="50%" valign="top">
+📰 Fake News Detection — NLP
 
----
+Dual-model NLP benchmark on the BBC News dataset — 92% classification accuracy.
 
-### 🗂️ Local AI Document Processing & Semantic Search
-Fully offline CLI pipeline — zero cloud dependency, air-gapped compatible
+Fine-tuned HuggingFace Transformers for binary text classification
+Benchmarked a custom LSTM language model vs. GPT-2 for generation & perplexity
 
-- Document ingestion, auto-classification, structured field extraction, embedding-based semantic search
-- Fully reproducible in air-gapped environments
+PyTorch HuggingFace LSTM GPT-2
 
-`Python` `Offline LLMs` `Vector Embeddings` `Semantic Search`
+</td> <td width="50%" valign="top">
+🗂️ Local AI Document Processing
 
----
+Fully offline CLI pipeline — zero cloud dependency, air-gapped compatible.
 
-## 💼 Experience
+Document ingestion, auto-classification, structured field extraction
+Embedding-based semantic search, fully reproducible offline
 
-**Software Intern — Automation Engineering · BitBash** *(Apr 2026 – Jun 2026)*  
-Built a production-grade Android AccessibilityService automation system in Java with state-machine architecture and <300ms event-gating, eliminating async race conditions in live UI workflows.
+Python Vector Embeddings Semantic Search
 
-**Machine Learning Intern · IMARAT Group of Companies** *(Aug – Sep 2025)*  
-Led R&D and production deployment of GSDiff DDPM diffusion model, replacing Graph2Plan for architectural floor plan generation. System deployed within 2 months.
+</td> </tr> </table> <div align="center">
 
----
+Show Image
 
-## 🎓 Education
-**B.Sc. Computer Science** · University of Central Punjab, Lahore · *Jun 2026*
+</div> <br/>
+💼 Experience
+2026 — Present     Junior Software Engineer · Upmotion Tech
+                    Building the company's internal CRM & business operations
+                    platform (FastAPI + PostgreSQL + Next.js) — sales pipeline,
+                    project delivery, finance, HR, RBAC-secured auth, and a
+                    RAG-based AI assistant that answers policy questions live.
 
-## ☁️ Certification
-**AWS Academy Cloud Foundations** · Amazon Web Services · *Jun 2025*
+2026 (Apr–Jun)      Software Intern, Automation Engineering · BitBash
+                    Built a production-grade Android AccessibilityService
+                    automation system (Java, state-machine architecture) with
+                    <300ms event-gating and zero async race conditions.
+
+2025 (Aug–Sep)      Machine Learning Intern · IMARAT Group of Companies
+                    Led R&D and production deployment of GSDiff (DDPM diffusion
+                    model), replacing Graph2Plan for floor plan generation.
+<br/>
+🎓 Education & Certification
+<div align="center">
+	
+🎓 B.Sc. Computer Science	University of Central Punjab, Lahore · 2022 – 2026
+☁️ AWS Academy Cloud Foundations	Amazon Web Services · Jun 2025
+</div> <br/>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=syedhasht&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FD9C7&icon_color=3FD9C7&text_color=E7EEF4" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhasht&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FD9C7&text_color=E7EEF4" width="38%"/> <img src="https://streak-stats.demolab.com?user=syedhasht&theme=tokyonight&hide_border=true&background=0D1117&ring=3FD9C7&fire=3FD9C7&currStreakLabel=3FD9C7" width="70%"/> </div> <br/> <div align="center">
+📫 Let's Build Something
+
+Show Image Show Image Show Image
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FD9C7,100:112A45&height=120&section=footer" width="100%"/> </div>
