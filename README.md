@@ -135,9 +135,5 @@ philosophy: "Ship systems, not notebooks."
 </a>
 
 </div>
-
-<br/>
-
-<details>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FD9C7,100:112A45&height=120&section=footer" width="100%"/> </div>
+	
