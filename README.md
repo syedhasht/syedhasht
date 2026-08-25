@@ -139,10 +139,5 @@ philosophy: "Ship systems, not notebooks."
 <br/>
 
 <details>
-<summary><b>Project breakdowns</b> (click to expand)</summary>
 
 <br/>
-
-### 🦺 PPE & Safety Monitoring
-Real time construction site safety across 50 concurrent RTSP streams at 40 FPS with 88% detection accuracy. Live in Saudi Arabia and Bahrain.
-* GPU accelerated YOLOv8 + ByteTrack pipeline behind a scalable FastAPI backend
