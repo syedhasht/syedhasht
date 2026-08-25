@@ -1,152 +1,148 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:112A45,100:3FD9C7&height=220&section=header&text=Syed%20Hashim%20Tirmizi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%C2%B7%20Generative%20AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20LLMs&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/> <a href="https://syedhashim.vercel.app"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=3FD9C7&center=true&vCenter=true&width=650&lines=Building+production-grade+ML+systems...;Generative+AI+%7C+Computer+Vision+%7C+LLMs;Model+R%26D+%E2%86%92+Deployment+%E2%86%92+Live+Monitoring;Currently+running+across+3+countries+%F0%9F%8C%8D" alt="Typing SVG" /> </a> <br/>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=syedhasht&label=Profile%20Views&color=3FD9C7&style=for-the-badge" alt="profile views"/> &nbsp; <img src="https://img.shields.io/github/followers/syedhasht?label=Followers&style=for-the-badge&color=112A45" alt="followers"/> </div> <br/>
-🧬 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Syed%20Hashim%20Tirmizi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Computer%20Vision%20%C2%B7%20LLM%20Agents&descAlignY=54&descSize=17" width="100%" />
 
-I build production-grade ML systems — from model R&D and training to real-time API deployment and live monitoring. My work spans generative AI, computer vision, NLP, and predictive modelling, currently running live across 3 countries.
+<a href="https://syedhashim.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDAE&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Engineer+%C2%B7+Backend+Systems;Computer+Vision+%C2%B7+LLM+Agents+%C2%B7+Automation;Production+ML+running+live+in+3+countries;Ship+systems%2C+not+notebooks." alt="Typing SVG" />
+</a>
 
-yaml
-role:       Machine Learning Engineer
-focus:      [Generative AI, Computer Vision, LLMs, Predictive Modelling]
+<br/>
+
+<a href="https://syedhashim.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/syedhashimtirmizi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:syedhasht@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/syedhasht"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=syedhasht&label=Profile%20Views&color=38BDAE&style=flat-square" />
+<img src="https://img.shields.io/github/followers/syedhasht?label=Followers&style=flat-square&color=38BDAE" />
+<img src="https://img.shields.io/badge/Open%20to-ML%20%2F%20AI%20Engineer%20Roles-2ea44f?style=flat-square" />
+
+</div>
+
+---
+
+## About
+
+I build production ML systems end to end. Model R&D, training, real time API deployment, live monitoring. My work spans generative AI, computer vision, NLP and predictive modelling, currently serving traffic across three countries.
+
+```yaml
+name:       Syed Hashim Tirmizi
+role:       AI / ML Engineer · Backend Systems
+company:    Upmotion Tech
 location:   Lahore, Pakistan
-status:     Open to ML / AI Engineer roles — on-site · hybrid · remote
+focus:      [Generative AI, Computer Vision, LLM Agents, Predictive Modelling]
+status:     Open to ML / AI Engineer roles · onsite | hybrid | remote
 philosophy: "Ship systems, not notebooks."
+```
+
+---
+
+## Shipped to Production
+
+| System | Scale & Result | Status |
+|:--|:--|:--|
+| **PPE Safety Monitoring** · YOLOv8 + ByteTrack | 50 concurrent RTSP streams · 40 FPS · 88% accuracy | 🟢 Live · Saudi Arabia & Bahrain |
+| **GSDiff Floor Plan Generation** · DDPM Diffusion | Replaced the Graph2Plan pipeline at IMARAT Group | 🟢 Shipped in 2 months |
+| **ORBIT** · Internal Operations Platform | Company wide sales, delivery, finance, HR, RAG assistant | 🟢 Live · Upmotion Tech |
+| **GPT-4 Automation Pipeline** | Scraping → viability gating → PostgreSQL → live UI | 🟢 Live |
+| **HillSafe AI** · Landslide Early Warning | Random Forest + LSTM · 85% accuracy · 5 regions | 🟢 Live |
+| **AI Voice Order Agent** | Real time telephony ordering with inventory recovery | 🟢 Live |
+
+---
+
+## Stack
+
+<div align="center">
+
+**AI / ML**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+**Computer Vision**
+
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/ByteTrack-1E1E1E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+
+**LLMs & Agents**
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG%20Pipelines-4B0082?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20Search-0F9D58?style=for-the-badge" />
+
+**Backend & Data**
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+
+**Automation & Cloud**
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+</div>
+
+---
+
+## Featured Work
+
+<div align="center">
+
+<a href="https://github.com/syedhasht/PPE-Detection">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=syedhasht&repo=PPE-Detection&theme=tokyonight&hide_border=true" width="49%" />
+</a>
+<a href="https://github.com/syedhasht/HillSafe-AI">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=syedhasht&repo=HillSafe-AI&theme=tokyonight&hide_border=true" width="49%" />
+</a>
+<a href="https://github.com/syedhasht/AI-Voice-Agent">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=syedhasht&repo=AI-Voice-Agent&theme=tokyonight&hide_border=true" width="49%" />
+</a>
+<a href="https://github.com/Upmotion-Tech/ORBIT">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Upmotion-Tech&repo=ORBIT&theme=tokyonight&hide_border=true&show_owner=true" width="49%" />
+</a>
+<a href="https://github.com/syedhasht/Local-AI-Document-Processing-System-Semantic-Search">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=syedhasht&repo=Local-AI-Document-Processing-System-Semantic-Search&theme=tokyonight&hide_border=true" width="49%" />
+</a>
+<a href="https://github.com/syedhasht/Fake-News-Prediction-using-NLP">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=syedhasht&repo=Fake-News-Prediction-using-NLP&theme=tokyonight&hide_border=true" width="49%" />
+</a>
+
+</div>
+
 <br/>
-🚀 Production Deployments
-<div align="center">
-System	Scale	Status
-PPE Safety Monitoring — YOLOv8 + ByteTrack	50 RTSP streams · 40 FPS · 88% accuracy	🟢 Live — Saudi Arabia & Bahrain
-DDPM Diffusion Model (GSDiff) — Floor Plan Generation	Replaced Graph2Plan pipeline @ IMARAT Group	🟢 Deployed in 2 months
-Internal CRM & Business Operations Platform	Company-wide: sales, delivery, finance, HR + AI assistant	🟢 Live — Upmotion Tech
-GPT-4 LLM Automation Pipeline	Scraping → viability gating → PostgreSQL → live UI	🟢 Live
-HillSafe-AI — Landslide Early Warning	Random Forest + LSTM · 85% accuracy	🟢 Live
-</div> <br/>
-🧠 Technical Stack
-<div align="center">
 
-AI / ML
+<details>
+<summary><b>Project breakdowns</b> (click to expand)</summary>
 
-Show Image Show Image Show Image Show Image Show Image Show Image
-
-Computer Vision
-
-Show Image Show Image Show Image
-
-LLMs & Agents
-
-Show Image Show Image Show Image
-
-Backend & APIs
-
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image
-
-Automation
-
-Show Image Show Image Show Image
-
-Cloud & DevOps
-
-Show Image Show Image Show Image Show Image
-
-Languages
-
-Show Image Show Image Show Image Show Image Show Image
-
-</div> <br/>
-📦 Key Projects
-<table> <tr> <td width="50%" valign="top">
-🦺 PPE & Safety Monitoring System
-
-Real-time construction-site safety — 50 concurrent RTSP streams, 40 FPS, 88% detection accuracy — live in Saudi Arabia and Bahrain.
-
-GPU-accelerated YOLOv8 + ByteTrack pipeline, scalable FastAPI backend
-Real-time violation alerts, async error handling, monitoring dashboards
-Restricted-zone intrusion detection + pose-based fall detection
-Inference optimised for NVIDIA GTX 960
-
-YOLOv8 ByteTrack FastAPI OpenCV RTSP CUDA
-
-</td> <td width="50%" valign="top">
-🏗️ DDPM Floor Plan Generation
-
-R&D and production deployment of GSDiff (DDPM diffusion model), replacing the Graph2Plan pipeline at IMARAT Group.
-
-Applied R&D on the RPlan dataset; led the full model transition
-Deployed to production within 2 months of internship start
-Benchmarked ANN / CNN / RNN baselines; served via FastAPI
-
-PyTorch DDPM Diffusion Models FastAPI RPlan
-
-</td> </tr> <tr> <td width="50%" valign="top">
-⛰️ HillSafe-AI — Disaster Early Warning
-
-Real-time landslide risk prediction for hilly regions of Pakistan.
-
-Ensemble ML: Random Forest (spatial susceptibility) + LSTM (rainfall forecasting) — 85% accuracy
-Automated ingestion of satellite imagery, DEM slope features, live weather APIs
-Django REST + Flutter app with real-time hazard maps & push alerts
-NLP chatbot for personalised safety guidance
-
-PyTorch Random Forest LSTM Django REST Flutter
-
-</td> <td width="50%" valign="top">
-🤖 GPT-4 LLM Automation Pipeline
-
-End-to-end autonomous pipeline: scraping → LLM viability gating → live listing platform.
-
-GPT-4 strict Yes/No gating with zero hallucinations via structured output parsing
-Stateless scraper with TLS fingerprint impersonation & Cloudflare bypass
-Express + Prisma backend, 15-min cron sync, advisory locking, deduplication
-
-GPT-4 Python PostgreSQL Node.js Prisma
-
-</td> </tr> <tr> <td width="50%" valign="top">
-📰 Fake News Detection — NLP
-
-Dual-model NLP benchmark on the BBC News dataset — 92% classification accuracy.
-
-Fine-tuned HuggingFace Transformers for binary text classification
-Benchmarked a custom LSTM language model vs. GPT-2 for generation & perplexity
-
-PyTorch HuggingFace LSTM GPT-2
-
-</td> <td width="50%" valign="top">
-🗂️ Local AI Document Processing
-
-Fully offline CLI pipeline — zero cloud dependency, air-gapped compatible.
-
-Document ingestion, auto-classification, structured field extraction
-Embedding-based semantic search, fully reproducible offline
-
-Python Vector Embeddings Semantic Search
-
-</td> </tr> </table> <div align="center">
-
-Show Image
-
-</div> <br/>
-💼 Experience
-2026 — Present     Junior Software Engineer · Upmotion Tech
-                    Building the company's internal CRM & business operations
-                    platform (FastAPI + PostgreSQL + Next.js) — sales pipeline,
-                    project delivery, finance, HR, RBAC-secured auth, and a
-                    RAG-based AI assistant that answers policy questions live.
-
-2026 (Apr–Jun)      Software Intern, Automation Engineering · BitBash
-                    Built a production-grade Android AccessibilityService
-                    automation system (Java, state-machine architecture) with
-                    <300ms event-gating and zero async race conditions.
-
-2025 (Aug–Sep)      Machine Learning Intern · IMARAT Group of Companies
-                    Led R&D and production deployment of GSDiff (DDPM diffusion
-                    model), replacing Graph2Plan for floor plan generation.
 <br/>
-🎓 Education & Certification
-<div align="center">
-	
-🎓 B.Sc. Computer Science	University of Central Punjab, Lahore · 2022 – 2026
-☁️ AWS Academy Cloud Foundations	Amazon Web Services · Jun 2025
-</div> <br/>
-📫 Let's Build Something
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FD9C7,100:112A45&height=120&section=footer" width="100%"/> </div>
+### 🦺 PPE & Safety Monitoring
+Real time construction site safety across 50 concurrent RTSP streams at 40 FPS with 88% detection accuracy. Live in Saudi Arabia and Bahrain.
+* GPU accelerated YOLOv8 + ByteTrack pipeline behind a scalable FastAPI backend
